@@ -1,5 +1,5 @@
 # SquareTool
-A WorkSpace For Students (On Going Project)
+<h2>A WorkSpace For Students</h2> (On Going Project)
 Its My Academic Main Project me and my Teammates Gururaj R and Harish V Currently working on it
 the Project Contains th multiple tools like Chat,Notification,Vedio and Audio Meet,ClassRoom And more Features 
 the SquareTool is Use full for Students and Faculty to Maintain Their Academic Activities Safe and Secure 
